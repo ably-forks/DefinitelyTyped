@@ -1,6 +1,7 @@
 {
-    "private": true,
-    "dependencies": {
-        "@types/node": "*"
-    }
+  "private": true,
+  "dependencies": {},
+  "name": "@types/pulsar-client",
+  "types": "index",
+  "version": "0.0.1"
 }
